@@ -1,0 +1,10 @@
+streamlit
+agent-framework
+openai
+python-dotenv
+pydantic
+pypdf
+python-docx
+fastmcp
+fastapi
+uvicorn
